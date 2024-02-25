@@ -21,5 +21,8 @@ ___
 - Familiaridade com diversas linguagens, incluindo C, Python, SQL e JavaScript, além de CSS e HTML
 
 - Como se envolver com uma comunidade vibrante de alunos com ideias semelhantes e de todos os níveis de experiência
+___
+![image](https://github.com/abnercezar/CS50x/assets/102832541/7c54364e-1443-4824-93a2-41b1d22a7f2e)
+
 
 - Como desenvolver e apresentar um projeto final de programação aos seus pares
