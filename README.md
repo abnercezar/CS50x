@@ -25,4 +25,4 @@ ___
 ![image](https://github.com/abnercezar/CS50x/assets/102832541/7c54364e-1443-4824-93a2-41b1d22a7f2e)
 
 
-- Como desenvolver e apresentar um projeto final de programação aos seus pares
+Observe que este repositório é para armazenar meus projetos e arquivos do curso CS50x da Universidade de Harvard. Não se destina a compartilhar respostas ou encorajar a desonestidade acadêmica. Se você estiver matriculado no momento, conclua as tarefas de forma independente e consulte os materiais do curso.
