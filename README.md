@@ -12,4 +12,14 @@ ___
 C, Python, SQL, JavaScript, CSS, HTML
 ___
 ## Tópicos
-Abstração, algoritmos, estruturas de dados, encapsulamento, gerenciamento de recursos, segurança, engenharia de software e desenvolvimento web.
+- Uma compreensão ampla e robusta de ciência da computação e programação
+
+- Como pensar algoritmicamente e resolver problemas de programação de forma eficiente
+
+- Conceitos como abstração, algoritmos, estruturas de dados, encapsulamento, gerenciamento de recursos, segurança, engenharia de software e desenvolvimento web
+
+- Familiaridade com diversas linguagens, incluindo C, Python, SQL e JavaScript, além de CSS e HTML
+
+- Como se envolver com uma comunidade vibrante de alunos com ideias semelhantes e de todos os níveis de experiência
+
+- Como desenvolver e apresentar um projeto final de programação aos seus pares
