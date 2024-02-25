@@ -1,0 +1,15 @@
+Importe a função get_strind da biblioteca cs50
+
+Defina a função de coleman liau, é responsavel por calcular o indice de coleman liau
+
+defina a entrada do texto
+
+Contar asa letras
+
+Contar as Palavras
+
+Contar as sentenças
+
+Calcule o índice de coleman liau
+
+imprima os resultados

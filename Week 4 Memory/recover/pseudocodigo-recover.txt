@@ -1,0 +1,12 @@
+-Abrir cartão de memória
+-Repita até o final do cartão:
+-Leia 512 bytes em um buffer
+-Se início de novo JPEG
+-Se primeiro JPEG
+
+Senão
+
+Senão
+-Se já encontrado JPEG
+
+-Feche todos os arquivos restantes

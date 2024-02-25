@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+
+{% block content %}
+  <h1>Cadastro dos funcionários</h1>
+  <div style="display: flex; justify-content: center; align-items: center; height: 50vh;">
+  <form action="{{ url_for('enviar_funcionarios') }}" method="POST">
+    <p style="display: block;">
+    <label for="empresa">Empresa:</label>
+    <br>
+    <select id="empresa" name="empresa" class="form-control input-grande">
+      <option value="">Selecione a empresa</option>
+      {% for empresa in empresas %}
+        <option value="{{ empresa[0] }}">{{ empresa[1] }}</option>
+      {% endfor %}
+    </select>
+    </p>
+    <p style="display: block;">
+      <label for="nome">Nome:</label>
+      <br>
+      <input type="text" id="nome" name="nome" class="form-control input-grande">
+    </p>
+    <p>
+      <label for="cpf">Cpf:</label>
+      <br>
+      <input type="text" id="cpf" name="cpf" class="form-control input-medio">
+    </p>
+    <p>
+      <label for="contato">Contato:</label>
+      <br>
+      <input type="text" id="contato" name="contato" class="form-control input-medio">
+    </p>
+    <p style="display: flex; justify-content: center;">
+      <input type="submit" value="Cadastrar" class="primary">
+      <input type="submit" value="Cancelar" class="danger">
+    </p>
+  </form>
+  </div>
+{% endblock %}

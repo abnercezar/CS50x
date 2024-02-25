@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+
+{% block content %}
+  <h1>Excluir Pagamento</h1>
+  <form action="/excluir/{{ id }}" method="POST">
+    <label for="funcionario" style="display: block; margin-bottom: 10px;">Funcionário:</label>
+    <input type="text" id="funcionario" name="funcionario" value="{{ pagamento[1] }}" readonly class="form-control input-medio"><br><br>
+
+    <label for="empresa" style="display: block; margin-bottom: 10px;">Empresa:</label>
+    <input type="text" id="empresa" name="empresa" value="{{ pagamento[2] }}" readonly class="form-control input-medio"><br><br>
+
+    <label for="valor" style="display: block; margin-bottom: 10px;">Valor:</label>
+    <input type="text" id="valor" name="valor" value="{{ pagamento[3] }}" readonly class="form-control input-medio"><br><br>
+
+    <label for="data" style="display: block; margin-bottom: 10px;">Data de Pagamento:</label>
+    <input type="text" id="data" name="data" value="{{ pagamento[4] }}" readonly class="form-control input-medio"><br><br>
+
+    <input type="submit" value="Atualizar" class="primary">
+  </form>
+{% endblock %}

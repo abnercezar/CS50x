@@ -1,0 +1,108 @@
+#name {
+    font-family: monospace;
+    font-size: 50px;
+    text-enphasis: underline;
+    color: green;
+    opacity: 0.5;
+}
+
+.about {
+    font-family: cursive;
+}
+
+h1 {
+    color: white
+}
+
+li:hover {
+    color: blue;
+}
+h4.about {
+    color: orange;
+}
+
+body.pagina-1 {
+    background-color: #EEE0E5;
+  }
+
+  body.pagina-2 {
+    background-color: #F0FFFF;
+  }
+
+  body.pagina-3 {
+    background-color: #FFD39B;
+  }
+
+  body.pagina-4 {
+    background-color: #CDB38B;
+  }
+
+p {
+    text-align: left;
+    font-size: 25px;
+  }
+
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+
+  header {
+    background-color: #8B2500;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+
+  header.pagina-2 {
+    background-color: #0000FF;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+
+  header.pagina-3 {
+    background-color: #8B5A2B;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+
+  header.pagina-4 {
+    background-color: #8B4513;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+
+  h1 {
+    font-size: 36px;
+    margin: 0;
+  }
+
+  main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+
+  img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+  }
+
+  h2 {
+    font-size: 24px;
+  }
+
+  p {
+    line-height: 1.5;
+  }

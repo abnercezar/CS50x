@@ -1,0 +1,12 @@
+Digite o texto
+Faça uma condição para contagem de letras
+Se o texto for maior ou igual a 'a' e for menor e igual 'z' ou 'A' e 'Z'
+Quantidade de letras
+Faça uma condição para contagem de palavras
+Se texto for igual a vazio
+Quantidade de palavras
+Faça uma condição para contagem de frases
+Se o texto tiver ponto ou exclamação ou interrogação
+Quantidade de frases
+Faça o indíce de Coleman-Liau
+Então faça as impressões

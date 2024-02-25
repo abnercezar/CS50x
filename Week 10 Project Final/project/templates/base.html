@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta name="viewport" content="width=device-width, initial scale=1.0">
+	<title>{% block title %}ACA Software{% endblock %}</title>
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+
+<body>
+	<header class ="header">
+		<div class="header-wrapper">
+			<div class="title-wrapper">
+				<h1>ACA Software/Abner Cezar/Brasil</h1>
+				
+			</div>
+			<nav class="menu">
+
+				<a href="{{ url_for('cadastro') }}">
+					<span class="icon">&#x1F9CD;</span>
+					Cadastrar usuários
+				</a>
+				<a href="{{ url_for('dashboard') }}">
+					<span class="icon">&#x1F4CA;</span>
+					Dashboard
+				</a>
+				<a href="{{ url_for('funcionarios') }}">
+					<span class="icon">&#x1F46B;</span>
+					Funcionários
+				</a>
+				<a href="{{ url_for('pagamentos') }}">
+					<span class="icon">&#x1F4B5;</span>
+					Pagamentos
+				</a>
+				<a href="{{ url_for('empresas_terc') }}">
+					<span class="icon">&#x1F3ED;</span>
+					Empresas Terceirizadas
+				</a>
+				<a href="{{ url_for('index') }}">
+					<span class="icon">&#x1F4C3;</span>
+					Relatório
+				</a>
+				<a href="{{ url_for('login_page') }}">
+					<span class="icon">&#x2190;</span>
+					Sair
+				  </a>
+			</nav>
+		</div>
+	</header>
+
+	<main>
+		{% block content %}
+
+		{% endblock %}
+	</main>
+
+	<footer>
+
+	</footer>
+</body>
+
+</html>

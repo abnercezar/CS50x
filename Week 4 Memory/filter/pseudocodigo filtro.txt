@@ -1,0 +1,9 @@
+A função grayscaledeve pegar uma imagem e transformá-la em uma versão em preto e branco da mesma imagem.
+
+A função sepiadeve pegar uma imagem e transformá-la em uma versão sépia da mesma imagem.
+
+A reflectfunção deve pegar uma imagem e refleti-la horizontalmente.
+
+Finalmente, a blurfunção deve pegar uma imagem e transformá-la em uma versão desfocada da mesma imagem.
+
+Você não deve modificar nenhuma das assinaturas de função, nem deve modificar nenhum outro arquivo que não seja helpers.c.

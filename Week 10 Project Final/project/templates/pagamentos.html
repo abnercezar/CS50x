@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1>Registrar pagamentos</h1>
+<div style="display: flex; justify-content: center; align-items: center; height: 50vh;">
+<form action="{{ url_for('form_pagamento', id=id) }}" method="POST">
+    <p style="display: block;">
+        <label for="nome_func">Nome:</label>
+        <br>
+        <select id="nome_func" name="nome_func" class="form-control input-medio">
+            <option value="">Selecione o funcionário</option>
+            {% for funcionario in funcionarios %}
+            <option value="{{ funcionario[1] }}">{{ funcionario[1] }}</option>
+            {% endfor %}
+        </select>
+    </p>
+    <p style="display: block;">
+        <label for="tipo">Tipo:</label>
+        <br>
+        <select name="tipo" id="tipo" class="form-control input-medio">
+            <option value="">Selecione o tipo</option>
+            <option value="especie">Espécie</option>
+            <option value="cartao">Cartão</option>
+        </select>
+    </p>
+    <p style="display: block;">
+        <label for="valor">Valor:</label>
+        <br>
+        <input type="text" id="valor" name="valor" class="form-control input-medio">
+    </p>
+    <p style="display: block;">
+        <label for="data">Data:</label>
+        <br>
+        <input type="date" id="data" name="data" class="form-control input-medio">
+    </p>
+    <p style="display: flex; justify-content: center;">
+        <input type="submit" value="Cadastrar" class="primary" onclick="cadastrar()">
+        <input type="button" value="Cancelar" class="danger" onclick="cancelar()">
+    </p>
+</form>
+</div>
+{% endblock %}

@@ -1,0 +1,38 @@
+Primeiro de tudo faça a importação da biblioteca.
+import cs50
+
+Seu código precisa da função principal
+def main():
+
+Loop para obter o valor do troco
+while True:
+
+imprimir valor devido e vazio
+print("Change owed:", end="")
+
+change recebe a biblioteca get_float do CS50
+change = cs50.get_float()
+
+Se change for maior ou igual a 0 para o loop se naão retorna no inicio
+if change >= 0:
+break
+
+Converte o valor em centavos e multiplica por 100
+cents = round(change * 100)
+
+Contar moedas
+coins = 0
+coins += cents
+cents %= 25
+coins += cents
+cents %= 10
+coins += cents
+cents %= 5
+coins += cents
+
+imprime moedas
+print(coins)
+
+chama função main
+if _name_=="_main_":
+main()

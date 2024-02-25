@@ -1,0 +1,11 @@
+Loop While solicita ao usuário inserir um número de 1 á 8.
+Caso ele insira incorretamente retorna ao início.
+Se o usuário inserir um número correto ele para o código.
+
+
+O loop for serve para gerar a linha atual iniciando em 0.
+A variavel espacos serve para armazenar os espaços antes das hashes.
+A quantidade de espaços é calculado como altura. -i -1.
+A variavel hashes armazena o numero de hashes na linha atual e é calculado por i + 1.
+A string é criada usando *.
+Print imprime a linha atual.

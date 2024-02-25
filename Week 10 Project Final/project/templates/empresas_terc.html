@@ -1,0 +1,61 @@
+{% extends "base.html" %}
+
+{% block content %}
+  <h1>Empresas terceirizadas</h1>
+  <div style="display: flex; justify-content: center; align-items: center; height: 50vh;">
+  <form action="{{ url_for('enviar_empresas_terc') }}" method="POST">
+    <p>
+      <label for="razao_social">Razão Social:</label>
+      <br>
+      <input type="text" id="razao_social" name="razao_social" class="form-control input-grande">
+    </p>
+
+    <p>
+      <label for="nome_fantasia">Nome Fantasia:</label>
+      <br>
+      <input type="text" id="nome_fantasia" name="nome_fantasia" class="form-control input-grande">
+    </p>
+
+    <p>
+      <label for="cnpj">Cnpj:</label>
+      <br>
+      <input type="text" id="cnpj" name="cnpj" class="form-control input-medio">
+    </p>
+
+    <p>
+      <label for="endereco">Endereço:</label>
+      <br>
+      <input type="text" id="endereco" name="endereco" class="form-control input-grande">
+    </p>
+
+    <p>
+      <label for="bairro">Bairro:</label>
+      <br>
+      <input type="text" id="bairro" name="bairro" class="form-control input-medio">
+    </p>
+
+    <p>
+      <label for="cidade">Cidade:</label>
+      <br>
+      <input type="text" id="cidade" name="cidade" class="form-control input-medio">
+    </p>
+
+    <p>
+      <label for="estado">Estado:</label>
+      <br>
+      <input type="text" id="estado" name="estado" class="form-control input-pequeno">
+    </p>
+
+    <p>
+      <label for="pais">País:</label>
+      <br>
+      <input type="text" id="pais" name="pais" class="form-control input-pequeno">
+    </p>
+
+    <p style="display: flex; justify-content: center;">
+      <input type="submit" value="Salvar" class="primary">
+      <input type="submit" value="Cancelar" class="danger">
+    </p>
+  </form>
+  </div>
+{% endblock %}

@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="container">
+    <div class="row">
+
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <div id="plotly-graph"></div>
+        </div>
+    </div>
+</div>
+
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+<script>
+    var data = {{ fig.to_json() | safe }};
+    Plotly.newPlot('plotly-graph', data);
+</script>
+{% endblock %}
