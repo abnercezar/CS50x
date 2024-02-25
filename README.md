@@ -22,6 +22,12 @@ ___
 
 - Como se envolver com uma comunidade vibrante de alunos com ideias semelhantes e de todos os níveis de experiência
 ___
+
+## Projeto Final
+O clímax deste curso é o seu projeto final. O projeto final é a sua oportunidade de testar seu novo conhecimento em programação e desenvolver seu próprio software. Contanto que o seu projeto se baseie nas lições deste curso, a natureza do seu projeto depende inteiramente de você. Você pode implementar seu projeto em qualquer idioma(s). Você está convidado a utilizar outra infraestrutura além do Codespace CS50. Tudo o que pedimos é que você construa algo de seu interesse, que resolva um problema real, que impacte sua comunidade ou que mude o mundo. Esforce-se para criar algo que sobreviva a este curso.
+
+Visto que o desenvolvimento de software raramente é um esforço de uma só pessoa, você terá a oportunidade de colaborar com um ou dois colegas neste projeto final. Escusado será dizer que se espera que todos os alunos de qualquer grupo contribuam igualmente para a concepção e implementação do projecto desse grupo. Além disso, espera-se que o escopo de um projeto de grupo de duas ou três pessoas seja, respectivamente, duas ou três vezes maior que o de um projeto típico de uma pessoa. Um projeto individual, lembre-se, deve envolver mais tempo e esforço do que o exigido por cada um dos conjuntos de problemas do curso.
+___
 ![image](https://github.com/abnercezar/CS50x/assets/102832541/7c54364e-1443-4824-93a2-41b1d22a7f2e)
 
 
