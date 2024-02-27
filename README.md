@@ -30,6 +30,9 @@ O clímax deste curso é o seu projeto final. O projeto final é a sua oportunid
 
 Visto que o desenvolvimento de software raramente é um esforço de uma só pessoa, você terá a oportunidade de colaborar com um ou dois colegas neste projeto final. Escusado será dizer que se espera que todos os alunos de qualquer grupo contribuam igualmente para a concepção e implementação do projecto desse grupo. Além disso, espera-se que o escopo de um projeto de grupo de duas ou três pessoas seja, respectivamente, duas ou três vezes maior que o de um projeto típico de uma pessoa. Um projeto individual, lembre-se, deve envolver mais tempo e esforço do que o exigido por cada um dos conjuntos de problemas do curso.
 ___
+![PatoCS50](https://github.com/abnercezar/CS50x/assets/102832541/314f67b1-50b1-4fa1-a153-7df41ccb2527)
+___
+
 ![Thisiscs50](https://github.com/abnercezar/CS50x/assets/102832541/05954b62-d45d-4b1e-bac4-52d3c744cf57)
 
 
