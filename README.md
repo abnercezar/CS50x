@@ -1,6 +1,7 @@
 # CS50x - 2023
  Ciência da Computação
-![image](https://github.com/abnercezar/CS50x/assets/102832541/dd8b5d86-666e-4f1e-8d87-7b54af9a42cd)
+![Harvard](https://github.com/abnercezar/CS50x/assets/102832541/f4dc593c-a913-43d1-9c67-4c748806b54f)
+
 ### Site CS50x: 
 https://cs50.harvard.edu/x/2023/
 
@@ -28,7 +29,8 @@ O clímax deste curso é o seu projeto final. O projeto final é a sua oportunid
 
 Visto que o desenvolvimento de software raramente é um esforço de uma só pessoa, você terá a oportunidade de colaborar com um ou dois colegas neste projeto final. Escusado será dizer que se espera que todos os alunos de qualquer grupo contribuam igualmente para a concepção e implementação do projecto desse grupo. Além disso, espera-se que o escopo de um projeto de grupo de duas ou três pessoas seja, respectivamente, duas ou três vezes maior que o de um projeto típico de uma pessoa. Um projeto individual, lembre-se, deve envolver mais tempo e esforço do que o exigido por cada um dos conjuntos de problemas do curso.
 ___
-![image](https://github.com/abnercezar/CS50x/assets/102832541/7c54364e-1443-4824-93a2-41b1d22a7f2e)
+![Thisiscs50](https://github.com/abnercezar/CS50x/assets/102832541/05954b62-d45d-4b1e-bac4-52d3c744cf57)
+
 
 
 Observe que este repositório é para armazenar meus projetos e arquivos do curso CS50x da Universidade de Harvard. Não se destina a compartilhar respostas ou encorajar a desonestidade acadêmica. Se você estiver matriculado no momento, conclua as tarefas de forma independente e consulte os materiais do curso.
