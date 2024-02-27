@@ -34,10 +34,9 @@ _____
 - O projeto terá ícones para que o usuário navegue mais facilmente entre as páginas
 _____
 ## 4- Que novas habilidades você precisará adquirir?
-- Conhecimentos em pyton
+- Conhecimentos em pytHon
 - Conhecimentos em ploty para criar os gráficos.
 - Manipular os dados no Sqlite
-- Precisarei aprimorar como lidar com crud
 
 _____
 
@@ -47,7 +46,7 @@ _____
 - Como relacionar as tabelas corretamente para que ela conversem entre si?
 - Como definir as rotas de código para apresentação correta?
 - Como inserir os dados dinamicamente na dashboard?
-- Como trabalhar corretamente com pyton?
+- Como trabalhar corretamente com python?
 - Como fazer uma boa estilização no meu código?
 - Como inserir ícones?
 - Como criar uma tabela para inserir os dados dos pagamentos?
