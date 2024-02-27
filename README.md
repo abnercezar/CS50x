@@ -1,6 +1,7 @@
 # CS50x - 2023
  Ciência da Computação
-![Harvard](https://github.com/abnercezar/CS50x/assets/102832541/f4dc593c-a913-43d1-9c67-4c748806b54f)
+![Harvard](https://github.com/abnercezar/CS50x/assets/102832541/96a8e6ab-d1a2-40b0-8b16-21db0b3dbd7e)
+
 
 ### Site CS50x: 
 https://cs50.harvard.edu/x/2023/
