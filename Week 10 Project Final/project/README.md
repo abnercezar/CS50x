@@ -1,6 +1,9 @@
 ## ACA SOFTWARE
 #### Video Demo:  https://youtu.be/Xtu9yHij498
 #### Finalidade do meu projeto:
+------
+![image](https://github.com/abnercezar/CS50x/assets/102832541/7cb6099e-43d4-4b95-abc3-3803239ecfe6)
+
 _____
 ## 1- O que seu software fará?
 - Meu software fará o controle de pagamentos para empresas prestadoras de serviços (empresas terceirizadas).
