@@ -1,5 +1,5 @@
 # CS50x - 2023
- Ciência da Computação
+### Introdução do CS50 à Ciência da Computação
 ![Harvard](https://github.com/abnercezar/CS50x/assets/102832541/96a8e6ab-d1a2-40b0-8b16-21db0b3dbd7e)
 
 
